@@ -11,7 +11,7 @@ import javax.inject.Inject;
 public class MainActivity extends AppCompatActivity {
 
 
-    @Inject
+    @Inject    //由MainActivityComponent类注入生成实例。
     Poetry mPoetry;
 
     @Inject
