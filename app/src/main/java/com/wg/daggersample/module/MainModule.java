@@ -1,4 +1,4 @@
-package com.wg.daggersample;
+package com.wg.daggersample.module;
 
 import com.google.gson.Gson;
 
